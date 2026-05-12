@@ -1,5 +1,3 @@
-import Link from 'next/link'
-
 export default function Experience() {
   return (
     <section className="Skill-section" id="Skill">
