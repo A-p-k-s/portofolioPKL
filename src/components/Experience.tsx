@@ -82,7 +82,6 @@ export default function Experience() {
           </div>  
         </div>
       </div>
-      <Link href="/form" className="btn-primary" style={{ textDecoration: 'none' }}>Know more?</Link>
     </section>
   )
 }
